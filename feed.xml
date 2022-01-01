@@ -3,12 +3,33 @@
     <title>Jannis Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2022-01-02T00:14:15+01:00</updated>
+    <updated>2022-01-02T00:19:07+01:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
     <id>https://jannis.treffler.cloud</id>
 
+    <entry>
+        <title>LEARN MORE</title>
+        <author>
+            <name>Jannis Treffler</name>
+        </author>
+        <link href="https://jannis.treffler.cloud/info/"/>
+        <id>https://jannis.treffler.cloud/info/</id>
+
+        <updated>2022-01-02T00:19:07+01:00</updated>
+            <summary>
+                <![CDATA[
+                    I AM A HOBBY DESIGNER AND UPLOAD MY ARTWORK here I WOUDE BE HAPPY TO GET SOME FEEDBACK
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p id="wnd_TextBlock_651650025_inner_0" class="wnd-align-center wnd-offset-1 align-center" data-wnd_is_separable="1" data-wnd_separable_index="0" data-wnd_separable_id="wnd_TextBlock_651650025"><span class="wnd-font-size-160">I AM A HOBBY DESIGNER AND UPLOAD MY ARTWORK here</span></p>
+<p class="wnd-align-center wnd-offset-1 align-center" data-wnd_is_separable="1" data-wnd_separable_index="0" data-wnd_separable_id="wnd_TextBlock_651650025"><span class="wnd-font-size-160"> I WOUDE BE HAPPY TO GET SOME FEEDBACK</span></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>MY FIRST 2D ANIMATION OF FOOD</title>
         <author>

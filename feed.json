@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://jannis.treffler.cloud/info/",
+            "url": "https://jannis.treffler.cloud/info/",
+            "title": "LEARN MORE",
+            "summary": "I AM A HOBBY DESIGNER AND UPLOAD MY ARTWORK here I WOUDE BE HAPPY TO GET SOME FEEDBACK",
+            "content_html": "<p id=\"wnd_TextBlock_651650025_inner_0\" class=\"wnd-align-center wnd-offset-1 align-center\" data-wnd_is_separable=\"1\" data-wnd_separable_index=\"0\" data-wnd_separable_id=\"wnd_TextBlock_651650025\"><span class=\"wnd-font-size-160\">I AM A HOBBY DESIGNER AND UPLOAD MY ARTWORK here</span></p>\n<p class=\"wnd-align-center wnd-offset-1 align-center\" data-wnd_is_separable=\"1\" data-wnd_separable_index=\"0\" data-wnd_separable_id=\"wnd_TextBlock_651650025\"><span class=\"wnd-font-size-160\"> I WOUDE BE HAPPY TO GET SOME FEEDBACK</span></p>",
+            "author": {
+                "name": "Jannis Treffler"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-01T23:58:17+01:00",
+            "date_modified": "2022-01-02T00:19:07+01:00"
+        },
+        {
             "id": "https://jannis.treffler.cloud/sdas/",
             "url": "https://jannis.treffler.cloud/sdas/",
             "title": "MY FIRST 2D ANIMATION OF FOOD",
