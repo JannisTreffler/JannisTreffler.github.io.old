@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jannis.treffler.cloud/sitemap.xml
