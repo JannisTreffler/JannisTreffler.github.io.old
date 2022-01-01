@@ -3,7 +3,7 @@
     <title>Jannis Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2022-01-02T00:21:02+01:00</updated>
+    <updated>2022-01-02T00:23:48+01:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
@@ -38,14 +38,16 @@
         <link href="https://jannis.treffler.cloud/sdas/"/>
         <id>https://jannis.treffler.cloud/sdas/</id>
 
-        <updated>2022-01-02T00:14:15+01:00</updated>
+        <updated>2022-01-02T00:23:48+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://jannis.treffler.cloud/media/posts/2/BURGER1-2545x1770.jpg" alt="" />
                     ￼ IT'S MY FIRST REAL ANIMATION PROJECT
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://jannis.treffler.cloud/media/posts/2/BURGER1-2545x1770.jpg" alt="" />
                 <figure class="post__image"><img loading="lazy"  src="file:///home/jannis/Schreibtisch/BURGER@4-2500x1677.jpg" data-is-external-image="true"  alt="" width="10000" height="6708"></figure>￼</p>
 <p class="align-center"><em>IT'S MY FIRST REAL ANIMATION PROJECT</em></p>
             ]]>

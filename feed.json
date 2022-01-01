@@ -29,13 +29,14 @@
             "title": "MY FIRST 2D ANIMATION OF FOOD",
             "summary": "￼ IT'S MY FIRST REAL ANIMATION PROJECT",
             "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"file:///home/jannis/Schreibtisch/BURGER@4-2500x1677.jpg\" data-is-external-image=\"true\"  alt=\"\" width=\"10000\" height=\"6708\"></figure>￼</p>\n<p class=\"align-center\"><em>IT'S MY FIRST REAL ANIMATION PROJECT</em></p>",
+            "image": "https://jannis.treffler.cloud/media/posts/2/BURGER1-2545x1770.jpg",
             "author": {
                 "name": "Jannis Treffler"
             },
             "tags": [
             ],
             "date_published": "2022-01-01T22:54:59+01:00",
-            "date_modified": "2022-01-02T00:14:15+01:00"
+            "date_modified": "2022-01-02T00:23:48+01:00"
         },
         {
             "id": "https://jannis.treffler.cloud/test/",
