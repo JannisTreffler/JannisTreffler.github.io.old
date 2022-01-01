@@ -3,10 +3,54 @@
     <title>Jannis Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2022-01-02T00:14:15+01:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
     <id>https://jannis.treffler.cloud</id>
 
+    <entry>
+        <title>MY FIRST 2D ANIMATION OF FOOD</title>
+        <author>
+            <name>Jannis Treffler</name>
+        </author>
+        <link href="https://jannis.treffler.cloud/sdas/"/>
+        <id>https://jannis.treffler.cloud/sdas/</id>
+
+        <updated>2022-01-02T00:14:15+01:00</updated>
+            <summary>
+                <![CDATA[
+                    ￼ IT'S MY FIRST REAL ANIMATION PROJECT
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="file:///home/jannis/Schreibtisch/BURGER@4-2500x1677.jpg" data-is-external-image="true"  alt="" width="10000" height="6708"></figure>￼</p>
+<p class="align-center"><em>IT'S MY FIRST REAL ANIMATION PROJECT</em></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>2D RAMEN ANIMATION</title>
+        <author>
+            <name>Jannis Treffler</name>
+        </author>
+        <link href="https://jannis.treffler.cloud/test/"/>
+        <id>https://jannis.treffler.cloud/test/</id>
+
+        <updated>2022-01-01T23:59:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jannis.treffler.cloud/media/posts/1/Untitled4-916x670-2.jpg" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jannis.treffler.cloud/media/posts/1/Untitled4-916x670-2.jpg" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/1/Untitled4-916x670.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/1/responsive/Untitled4-916x670-xs.jpg 300w ,https://jannis.treffler.cloud/media/posts/1/responsive/Untitled4-916x670-sm.jpg 480w ,https://jannis.treffler.cloud/media/posts/1/responsive/Untitled4-916x670-md.jpg 768w"  alt="" width="3664" height="2680"></figure>
+<p class="align-center">  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
