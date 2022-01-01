@@ -13,7 +13,6 @@
             "id": "https://jannis.treffler.cloud/ice-creame/",
             "url": "https://jannis.treffler.cloud/ice-creame/",
             "title": "ICE CREAME",
-            "content_html": "<figure class=\"post__image align-right\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/5/Eiscram4-910x1044.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/5/responsive/Eiscram4-910x1044-xs.jpg 300w ,https://jannis.treffler.cloud/media/posts/5/responsive/Eiscram4-910x1044-sm.jpg 480w ,https://jannis.treffler.cloud/media/posts/5/responsive/Eiscram4-910x1044-md.jpg 768w\"  alt=\"\" width=\"573\" height=\"657\"></figure>",
             "image": "https://jannis.treffler.cloud/media/posts/5/Eiscram4-910x1044-3.jpg",
             "author": {
                 "name": "Jannis Treffler"
@@ -21,13 +20,12 @@
             "tags": [
             ],
             "date_published": "2022-01-02T00:27:06+01:00",
-            "date_modified": "2022-01-02T00:27:06+01:00"
+            "date_modified": "2022-01-02T00:31:28+01:00"
         },
         {
             "id": "https://jannis.treffler.cloud/kino/",
             "url": "https://jannis.treffler.cloud/kino/",
             "title": "KINO",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/4/Kino4-1075x1007.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/4/responsive/Kino4-1075x1007-xs.jpg 300w ,https://jannis.treffler.cloud/media/posts/4/responsive/Kino4-1075x1007-sm.jpg 480w ,https://jannis.treffler.cloud/media/posts/4/responsive/Kino4-1075x1007-md.jpg 768w\"  alt=\"\" width=\"688\" height=\"644\"></figure>",
             "image": "https://jannis.treffler.cloud/media/posts/4/Kino4-1075x1007-2.jpg",
             "author": {
                 "name": "Jannis Treffler"
@@ -35,7 +33,7 @@
             "tags": [
             ],
             "date_published": "2022-01-02T00:25:38+01:00",
-            "date_modified": "2022-01-02T00:25:59+01:00"
+            "date_modified": "2022-01-02T00:31:25+01:00"
         },
         {
             "id": "https://jannis.treffler.cloud/info/",
@@ -56,7 +54,7 @@
             "url": "https://jannis.treffler.cloud/sdas/",
             "title": "MY FIRST 2D ANIMATION OF FOOD",
             "summary": "￼ IT'S MY FIRST REAL ANIMATION PROJECT",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"file:///home/jannis/Schreibtisch/BURGER@4-2500x1677.jpg\" data-is-external-image=\"true\"  alt=\"\" width=\"10000\" height=\"6708\"></figure>￼</p>\n<p class=\"align-center\"><em>IT'S MY FIRST REAL ANIMATION PROJECT</em></p>",
+            "content_html": "<p class=\"align-center msg msg--info\">￼</p>\n<p class=\"align-center\"><em>IT'S MY FIRST REAL ANIMATION PROJECT</em></p>",
             "image": "https://jannis.treffler.cloud/media/posts/2/BURGER1-2545x1770.jpg",
             "author": {
                 "name": "Jannis Treffler"
@@ -64,14 +62,14 @@
             "tags": [
             ],
             "date_published": "2022-01-01T22:54:59+01:00",
-            "date_modified": "2022-01-02T00:23:48+01:00"
+            "date_modified": "2022-01-02T00:31:21+01:00"
         },
         {
             "id": "https://jannis.treffler.cloud/test/",
             "url": "https://jannis.treffler.cloud/test/",
             "title": "2D RAMEN ANIMATION",
             "summary": " ",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/1/Untitled4-916x670.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/1/responsive/Untitled4-916x670-xs.jpg 300w ,https://jannis.treffler.cloud/media/posts/1/responsive/Untitled4-916x670-sm.jpg 480w ,https://jannis.treffler.cloud/media/posts/1/responsive/Untitled4-916x670-md.jpg 768w\"  alt=\"\" width=\"3664\" height=\"2680\"></figure>\n<p class=\"align-center\">  </p>",
+            "content_html": "<p class=\"msg msg--info\"> </p>\n<p class=\"align-center\">  </p>",
             "image": "https://jannis.treffler.cloud/media/posts/1/Untitled4-916x670-2.jpg",
             "author": {
                 "name": "Jannis Treffler"
@@ -79,7 +77,7 @@
             "tags": [
             ],
             "date_published": "2022-01-01T22:49:38+01:00",
-            "date_modified": "2022-01-01T23:59:55+01:00"
+            "date_modified": "2022-01-02T00:31:07+01:00"
         }
     ]
 }
