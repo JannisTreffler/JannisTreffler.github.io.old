@@ -3,7 +3,7 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2022-01-02T15:16:58+01:00</updated>
+    <updated>2022-01-02T15:17:30+01:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
@@ -64,17 +64,17 @@
         <link href="https://jannis.treffler.cloud/test/"/>
         <id>https://jannis.treffler.cloud/test/</id>
 
-        <updated>2022-01-02T15:16:58+01:00</updated>
+        <updated>2022-01-02T15:17:30+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jannis.treffler.cloud/media/posts/1/Untitled4-916x670-2.jpg" alt="" />
-                    jkhggkfjhgsdkluzfg 
+                     
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://jannis.treffler.cloud/media/posts/1/Untitled4-916x670-2.jpg" alt="" />
-                <p class="msg msg--info">jkhggkfjhgsdkluzfg</p>
+                <p class="msg msg--info"> </p>
 <p class="align-center">  </p>
             ]]>
         </content>
