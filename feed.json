@@ -5,7 +5,6 @@
     "home_page_url": "https://jannis.treffler.cloud",
     "feed_url": "https://jannis.treffler.cloud/feed.json",
     "user_comment": "",
-    "icon": "https://jannis.treffler.cloud/media/website/3d15a5083ce54372ba958f5d1e9076a4.png",
     "author": {
         "name": "Jannis Treffler"
     },
@@ -21,7 +20,7 @@
             "tags": [
             ],
             "date_published": "2022-02-26T11:33:10+01:00",
-            "date_modified": "2022-02-26T11:33:10+01:00"
+            "date_modified": "2022-02-26T11:44:01+01:00"
         },
         {
             "id": "https://jannis.treffler.cloud/sushi/",
