@@ -3,7 +3,7 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2022-03-13T22:02:36+01:00</updated>
+    <updated>2022-03-13T22:09:18+01:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
@@ -17,9 +17,17 @@
         <link href="https://jannis.treffler.cloud/jannis-treffler-daten/"/>
         <id>https://jannis.treffler.cloud/jannis-treffler-daten/</id>
 
-        <updated>2022-03-13T22:02:36+01:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-03-13T22:09:18+01:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/9/WhatsApp-Image-2022-03-13-at-21.54.53.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/9/responsive/WhatsApp-Image-2022-03-13-at-21.54.53-xs.png 300w ,https://jannis.treffler.cloud/media/posts/9/responsive/WhatsApp-Image-2022-03-13-at-21.54.53-sm.png 480w ,https://jannis.treffler.cloud/media/posts/9/responsive/WhatsApp-Image-2022-03-13-at-21.54.53-md.png 768w"  alt="" width="213" height="440"> </figure>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>KAKAO</title>
