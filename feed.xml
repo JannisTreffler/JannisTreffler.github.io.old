@@ -3,7 +3,7 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2022-04-03T18:45:51+02:00</updated>
+    <updated>2022-04-03T18:51:11+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
@@ -17,20 +17,20 @@
         <link href="https://jannis.treffler.cloud/cyber-city/"/>
         <id>https://jannis.treffler.cloud/cyber-city/</id>
 
-        <updated>2022-04-03T18:45:51+02:00</updated>
+        <updated>2022-04-03T18:51:11+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jannis.treffler.cloud/media/posts/10/untitleasdd.png" alt="" />
-                     1. 2. 3. 
+                     1.created 2.rendered 3.edit 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://jannis.treffler.cloud/media/posts/10/untitleasdd.png" alt="" />
                 <h2> </h2>
-<h2>1. <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/10/Bildschirmfoto-von-2022-04-03-14-38-49.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/10/responsive/Bildschirmfoto-von-2022-04-03-14-38-49-xs.png 300w ,https://jannis.treffler.cloud/media/posts/10/responsive/Bildschirmfoto-von-2022-04-03-14-38-49-sm.png 480w ,https://jannis.treffler.cloud/media/posts/10/responsive/Bildschirmfoto-von-2022-04-03-14-38-49-md.png 768w"  alt="" width="569" height="320"></figure> </h2>
-<h2>2. <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/10/untitled.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/10/responsive/untitled-xs.png 300w ,https://jannis.treffler.cloud/media/posts/10/responsive/untitled-sm.png 480w ,https://jannis.treffler.cloud/media/posts/10/responsive/untitled-md.png 768w"  alt="" width="570" height="321"></figure></h2>
-<h2>3. <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/10/untitleasdd-3.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/10/responsive/untitleasdd-3-xs.png 300w ,https://jannis.treffler.cloud/media/posts/10/responsive/untitleasdd-3-sm.png 480w ,https://jannis.treffler.cloud/media/posts/10/responsive/untitleasdd-3-md.png 768w"  alt="" width="571" height="321"></figure></h2>
+<h2>1.created <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/10/Bildschirmfoto-von-2022-04-03-14-38-49.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/10/responsive/Bildschirmfoto-von-2022-04-03-14-38-49-xs.png 300w ,https://jannis.treffler.cloud/media/posts/10/responsive/Bildschirmfoto-von-2022-04-03-14-38-49-sm.png 480w ,https://jannis.treffler.cloud/media/posts/10/responsive/Bildschirmfoto-von-2022-04-03-14-38-49-md.png 768w"  alt="" width="569" height="320"></figure> </h2>
+<h2>2.rendered <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/10/untitled.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/10/responsive/untitled-xs.png 300w ,https://jannis.treffler.cloud/media/posts/10/responsive/untitled-sm.png 480w ,https://jannis.treffler.cloud/media/posts/10/responsive/untitled-md.png 768w"  alt="" width="570" height="321"></figure></h2>
+<h2>3.edit <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/10/untitleasdd-3.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/10/responsive/untitleasdd-3-xs.png 300w ,https://jannis.treffler.cloud/media/posts/10/responsive/untitleasdd-3-sm.png 480w ,https://jannis.treffler.cloud/media/posts/10/responsive/untitleasdd-3-md.png 768w"  alt="" width="571" height="321"></figure></h2>
             ]]>
         </content>
     </entry>
