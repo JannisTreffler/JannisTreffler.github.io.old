@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Jannis Treffler Design</title>
-    <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
-    <link href="https://jannis.treffler.cloud" />
+    <link href="https://Jannis.Treffler.cloud/feed.xml" rel="self" />
+    <link href="https://Jannis.Treffler.cloud" />
     <updated>2022-04-03T18:51:11+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
-    <id>https://jannis.treffler.cloud</id>
+    <id>https://Jannis.Treffler.cloud</id>
 
     <entry>
         <title>Cyber City</title>
         <author>
             <name>Jannis Treffler</name>
         </author>
-        <link href="https://jannis.treffler.cloud/cyber-city/"/>
-        <id>https://jannis.treffler.cloud/cyber-city/</id>
+        <link href="https://Jannis.Treffler.cloud/cyber-city/"/>
+        <id>https://Jannis.Treffler.cloud/cyber-city/</id>
 
         <updated>2022-04-03T18:51:11+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jannis.treffler.cloud/media/posts/10/untitleasdd.png" alt="" />
+                        <img src="https://Jannis.Treffler.cloud/media/posts/10/untitleasdd.png" alt="" />
                      1.created 2.rendered 3.edit 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jannis.treffler.cloud/media/posts/10/untitleasdd.png" alt="" />
+                    <img src="https://Jannis.Treffler.cloud/media/posts/10/untitleasdd.png" alt="" />
                 <h2> </h2>
-<h2>1.created <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/10/Bildschirmfoto-von-2022-04-03-14-38-49.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/10/responsive/Bildschirmfoto-von-2022-04-03-14-38-49-xs.png 300w ,https://jannis.treffler.cloud/media/posts/10/responsive/Bildschirmfoto-von-2022-04-03-14-38-49-sm.png 480w ,https://jannis.treffler.cloud/media/posts/10/responsive/Bildschirmfoto-von-2022-04-03-14-38-49-md.png 768w"  alt="" width="569" height="320"></figure> </h2>
-<h2>2.rendered <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/10/untitled.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/10/responsive/untitled-xs.png 300w ,https://jannis.treffler.cloud/media/posts/10/responsive/untitled-sm.png 480w ,https://jannis.treffler.cloud/media/posts/10/responsive/untitled-md.png 768w"  alt="" width="570" height="321"></figure></h2>
-<h2>3.edit <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/10/untitleasdd-3.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/10/responsive/untitleasdd-3-xs.png 300w ,https://jannis.treffler.cloud/media/posts/10/responsive/untitleasdd-3-sm.png 480w ,https://jannis.treffler.cloud/media/posts/10/responsive/untitleasdd-3-md.png 768w"  alt="" width="571" height="321"></figure></h2>
+<h2>1.created <figure class="post__image"><img loading="lazy"  src="https://Jannis.Treffler.cloud/media/posts/10/Bildschirmfoto-von-2022-04-03-14-38-49.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://Jannis.Treffler.cloud/media/posts/10/responsive/Bildschirmfoto-von-2022-04-03-14-38-49-xs.png 300w ,https://Jannis.Treffler.cloud/media/posts/10/responsive/Bildschirmfoto-von-2022-04-03-14-38-49-sm.png 480w ,https://Jannis.Treffler.cloud/media/posts/10/responsive/Bildschirmfoto-von-2022-04-03-14-38-49-md.png 768w"  alt="" width="569" height="320"></figure> </h2>
+<h2>2.rendered <figure class="post__image"><img loading="lazy"  src="https://Jannis.Treffler.cloud/media/posts/10/untitled.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://Jannis.Treffler.cloud/media/posts/10/responsive/untitled-xs.png 300w ,https://Jannis.Treffler.cloud/media/posts/10/responsive/untitled-sm.png 480w ,https://Jannis.Treffler.cloud/media/posts/10/responsive/untitled-md.png 768w"  alt="" width="570" height="321"></figure></h2>
+<h2>3.edit <figure class="post__image"><img loading="lazy"  src="https://Jannis.Treffler.cloud/media/posts/10/untitleasdd-3.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://Jannis.Treffler.cloud/media/posts/10/responsive/untitleasdd-3-xs.png 300w ,https://Jannis.Treffler.cloud/media/posts/10/responsive/untitleasdd-3-sm.png 480w ,https://Jannis.Treffler.cloud/media/posts/10/responsive/untitleasdd-3-md.png 768w"  alt="" width="571" height="321"></figure></h2>
             ]]>
         </content>
     </entry>
@@ -39,8 +39,8 @@
         <author>
             <name>Jannis Treffler</name>
         </author>
-        <link href="https://jannis.treffler.cloud/kakao/"/>
-        <id>https://jannis.treffler.cloud/kakao/</id>
+        <link href="https://Jannis.Treffler.cloud/kakao/"/>
+        <id>https://Jannis.Treffler.cloud/kakao/</id>
 
         <updated>2022-02-26T11:44:01+01:00</updated>
             <summary></summary>
@@ -51,8 +51,8 @@
         <author>
             <name>Jannis Treffler</name>
         </author>
-        <link href="https://jannis.treffler.cloud/sushi/"/>
-        <id>https://jannis.treffler.cloud/sushi/</id>
+        <link href="https://Jannis.Treffler.cloud/sushi/"/>
+        <id>https://Jannis.Treffler.cloud/sushi/</id>
 
         <updated>2022-01-05T11:23:56+01:00</updated>
             <summary></summary>
@@ -63,8 +63,8 @@
         <author>
             <name>Jannis Treffler</name>
         </author>
-        <link href="https://jannis.treffler.cloud/ice-creame/"/>
-        <id>https://jannis.treffler.cloud/ice-creame/</id>
+        <link href="https://Jannis.Treffler.cloud/ice-creame/"/>
+        <id>https://Jannis.Treffler.cloud/ice-creame/</id>
 
         <updated>2022-01-02T15:49:34+01:00</updated>
             <summary></summary>
@@ -75,8 +75,8 @@
         <author>
             <name>Jannis Treffler</name>
         </author>
-        <link href="https://jannis.treffler.cloud/kino/"/>
-        <id>https://jannis.treffler.cloud/kino/</id>
+        <link href="https://Jannis.Treffler.cloud/kino/"/>
+        <id>https://Jannis.Treffler.cloud/kino/</id>
 
         <updated>2022-01-02T00:31:25+01:00</updated>
             <summary></summary>
@@ -87,19 +87,19 @@
         <author>
             <name>Jannis Treffler</name>
         </author>
-        <link href="https://jannis.treffler.cloud/sdas/"/>
-        <id>https://jannis.treffler.cloud/sdas/</id>
+        <link href="https://Jannis.Treffler.cloud/sdas/"/>
+        <id>https://Jannis.Treffler.cloud/sdas/</id>
 
         <updated>2022-01-02T00:31:21+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jannis.treffler.cloud/media/posts/2/BURGER1-2545x1770.jpg" alt="" />
+                        <img src="https://Jannis.Treffler.cloud/media/posts/2/BURGER1-2545x1770.jpg" alt="" />
                     ￼ IT'S MY FIRST REAL ANIMATION PROJECT
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jannis.treffler.cloud/media/posts/2/BURGER1-2545x1770.jpg" alt="" />
+                    <img src="https://Jannis.Treffler.cloud/media/posts/2/BURGER1-2545x1770.jpg" alt="" />
                 <p class="align-center msg msg--info">￼</p>
 <p class="align-center"><em>IT'S MY FIRST REAL ANIMATION PROJECT</em></p>
             ]]>
@@ -110,19 +110,19 @@
         <author>
             <name>Jannis Treffler</name>
         </author>
-        <link href="https://jannis.treffler.cloud/test/"/>
-        <id>https://jannis.treffler.cloud/test/</id>
+        <link href="https://Jannis.Treffler.cloud/test/"/>
+        <id>https://Jannis.Treffler.cloud/test/</id>
 
         <updated>2022-01-02T15:17:30+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jannis.treffler.cloud/media/posts/1/Untitled4-916x670-2.jpg" alt="" />
+                        <img src="https://Jannis.Treffler.cloud/media/posts/1/Untitled4-916x670-2.jpg" alt="" />
                      
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jannis.treffler.cloud/media/posts/1/Untitled4-916x670-2.jpg" alt="" />
+                    <img src="https://Jannis.Treffler.cloud/media/posts/1/Untitled4-916x670-2.jpg" alt="" />
                 <p class="msg msg--info"> </p>
 <p class="align-center">  </p>
             ]]>
