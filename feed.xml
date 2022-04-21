@@ -3,7 +3,7 @@
     <title>Jannis Treffler Design</title>
     <link href="https://Jannis.Treffler.cloud/feed.xml" rel="self" />
     <link href="https://Jannis.Treffler.cloud" />
-    <updated>2022-04-21T09:00:34+02:00</updated>
+    <updated>2022-04-21T09:38:36+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
@@ -78,30 +78,9 @@
         <link href="https://Jannis.Treffler.cloud/kino/"/>
         <id>https://Jannis.Treffler.cloud/kino/</id>
 
-        <updated>2022-04-21T09:00:01+02:00</updated>
+        <updated>2022-04-21T09:23:17+02:00</updated>
             <summary></summary>
         <content></content>
-    </entry>
-    <entry>
-        <title>MY FIRST 2D ANIMATION OF FOOD</title>
-        <author>
-            <name>Jannis Treffler</name>
-        </author>
-        <link href="https://Jannis.Treffler.cloud/sdas/"/>
-        <id>https://Jannis.Treffler.cloud/sdas/</id>
-
-        <updated>2022-04-21T09:00:18+02:00</updated>
-            <summary>
-                <![CDATA[
-                    ￼ IT'S MY FIRST REAL ANIMATION PROJECT
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-center msg msg--info">￼</p>
-<p class="align-center"><em>IT'S MY FIRST REAL ANIMATION PROJECT</em></p>
-            ]]>
-        </content>
     </entry>
     <entry>
         <title>2D RAMEN ANIMATION</title>
@@ -111,14 +90,16 @@
         <link href="https://Jannis.Treffler.cloud/test/"/>
         <id>https://Jannis.Treffler.cloud/test/</id>
 
-        <updated>2022-04-21T09:00:34+02:00</updated>
+        <updated>2022-04-21T09:38:36+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://Jannis.Treffler.cloud/media/posts/1/Untitled4-916x670.jpg" alt="" />
                      
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://Jannis.Treffler.cloud/media/posts/1/Untitled4-916x670.jpg" alt="" />
                 <p class="msg msg--info"> </p>
 <p class="align-center">  </p>
             ]]>

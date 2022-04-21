@@ -67,27 +67,14 @@
             "id": "https://Jannis.Treffler.cloud/kino/",
             "url": "https://Jannis.Treffler.cloud/kino/",
             "title": "KINO",
+            "image": "https://Jannis.Treffler.cloud/media/posts/4/Kino4-1075x1007.jpg",
             "author": {
                 "name": "Jannis Treffler"
             },
             "tags": [
             ],
             "date_published": "2022-01-02T00:25:38+01:00",
-            "date_modified": "2022-04-21T09:00:01+02:00"
-        },
-        {
-            "id": "https://Jannis.Treffler.cloud/sdas/",
-            "url": "https://Jannis.Treffler.cloud/sdas/",
-            "title": "MY FIRST 2D ANIMATION OF FOOD",
-            "summary": "￼ IT'S MY FIRST REAL ANIMATION PROJECT",
-            "content_html": "<p class=\"align-center msg msg--info\">￼</p>\n<p class=\"align-center\"><em>IT'S MY FIRST REAL ANIMATION PROJECT</em></p>",
-            "author": {
-                "name": "Jannis Treffler"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-01-01T22:54:59+01:00",
-            "date_modified": "2022-04-21T09:00:18+02:00"
+            "date_modified": "2022-04-21T09:23:17+02:00"
         },
         {
             "id": "https://Jannis.Treffler.cloud/test/",
@@ -95,13 +82,14 @@
             "title": "2D RAMEN ANIMATION",
             "summary": " ",
             "content_html": "<p class=\"msg msg--info\"> </p>\n<p class=\"align-center\">  </p>",
+            "image": "https://Jannis.Treffler.cloud/media/posts/1/Untitled4-916x670.jpg",
             "author": {
                 "name": "Jannis Treffler"
             },
             "tags": [
             ],
             "date_published": "2022-01-01T22:49:38+01:00",
-            "date_modified": "2022-04-21T09:00:34+02:00"
+            "date_modified": "2022-04-21T09:38:36+02:00"
         }
     ]
 }
