@@ -3,7 +3,7 @@
     <title>Jannis Treffler Design</title>
     <link href="https://Jannis.Treffler.cloud/feed.xml" rel="self" />
     <link href="https://Jannis.Treffler.cloud" />
-    <updated>2022-06-01T14:17:04+02:00</updated>
+    <updated>2022-06-01T14:25:21+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://Jannis.Treffler.cloud/asd/"/>
         <id>https://Jannis.Treffler.cloud/asd/</id>
 
-        <updated>2022-06-01T14:17:04+02:00</updated>
+        <updated>2022-06-01T14:25:21+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://Jannis.Treffler.cloud/media/posts/14/plates-p1-e-2.png" alt="" />
                      
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://Jannis.Treffler.cloud/media/posts/14/plates-p1-e-2.png" alt="" />
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/14/gallery/plates-p1-e.png" data-size="1920x1080"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/14/gallery/plates-p1-e-thumbnail.png" alt="" width="768" height="432"></a></figure>
 </div></div>
