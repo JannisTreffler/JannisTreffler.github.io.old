@@ -3,7 +3,7 @@
     <title>Jannis Treffler Design</title>
     <link href="https://Jannis.Treffler.cloud/feed.xml" rel="self" />
     <link href="https://Jannis.Treffler.cloud" />
-    <updated>2022-06-01T15:00:16+02:00</updated>
+    <updated>2022-06-01T18:04:27+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://Jannis.Treffler.cloud/the-music-plates/"/>
         <id>https://Jannis.Treffler.cloud/the-music-plates/</id>
+            <category term="JANNIS"/>
 
-        <updated>2022-06-01T15:00:16+02:00</updated>
+        <updated>2022-06-01T18:04:27+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Jannis.Treffler.cloud/media/posts/14/plates-p1-e-2.png" alt="" />
