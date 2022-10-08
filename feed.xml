@@ -3,12 +3,41 @@
     <title>Jannis Treffler Design</title>
     <link href="https://Jannis.Treffler.cloud/feed.xml" rel="self" />
     <link href="https://Jannis.Treffler.cloud" />
-    <updated>2022-06-14T14:51:25+02:00</updated>
+    <updated>2022-10-08T21:42:34+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
     <id>https://Jannis.Treffler.cloud</id>
 
+    <entry>
+        <title>Minimalist Keyboard</title>
+        <author>
+            <name>Jannis Treffler</name>
+        </author>
+        <link href="https://Jannis.Treffler.cloud/minimalist-keyboard/"/>
+        <id>https://Jannis.Treffler.cloud/minimalist-keyboard/</id>
+
+        <updated>2022-10-08T21:42:34+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Jannis.Treffler.cloud/media/posts/16/teaser-1.png" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://Jannis.Treffler.cloud/media/posts/16/teaser-1.png" alt="" />
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-3-2.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-3-2-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-2-2.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-2-2-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-5-2.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-5-2-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-6-2.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-6-2-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-4-3.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-4-3-thumbnail.png" alt="" width="768" height="432"></a></figure>
+</div></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Music Plates</title>
         <author>
