@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Jannis Treffler Design</title>
     <link href="https://Jannis.Treffler.cloud/feed.xml" rel="self" />
     <link href="https://Jannis.Treffler.cloud" />
@@ -16,17 +16,13 @@
         </author>
         <link href="https://Jannis.Treffler.cloud/minimalist-keyboard/"/>
         <id>https://Jannis.Treffler.cloud/minimalist-keyboard/</id>
+        <media:content url="https://Jannis.Treffler.cloud/media/posts/16/teaser-1.png" medium="image" />
 
         <updated>2022-10-08T21:52:18+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://Jannis.Treffler.cloud/media/posts/16/teaser-1.png" alt="" />
-                     
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Jannis.Treffler.cloud/media/posts/16/teaser-1.png" alt="" />
+                    <p><img src="https://Jannis.Treffler.cloud/media/posts/16/teaser-1.png" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-3-2.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-3-2-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-2-2.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-2-2-thumbnail.png" alt="" width="768" height="432"></a></figure>
@@ -45,18 +41,14 @@
         </author>
         <link href="https://Jannis.Treffler.cloud/the-music-plates/"/>
         <id>https://Jannis.Treffler.cloud/the-music-plates/</id>
+        <media:content url="https://Jannis.Treffler.cloud/media/posts/14/plates-p1-e-2.png" medium="image" />
             <category term="JANNIS"/>
 
         <updated>2022-06-14T14:51:25+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://Jannis.Treffler.cloud/media/posts/14/plates-p1-e-2.png" alt="" />
-                     
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Jannis.Treffler.cloud/media/posts/14/plates-p1-e-2.png" alt="" />
+                    <p><img src="https://Jannis.Treffler.cloud/media/posts/14/plates-p1-e-2.png" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-MIDDLE-OF-THE-NIGHT-render.png" data-size="1920x1080"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-MIDDLE-OF-THE-NIGHT-render-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-Heat-Waves-render.png" data-size="1920x1080"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-Heat-Waves-render-thumbnail.png" alt="" width="768" height="432"></a></figure>
@@ -79,17 +71,13 @@
         </author>
         <link href="https://Jannis.Treffler.cloud/cyber-city/"/>
         <id>https://Jannis.Treffler.cloud/cyber-city/</id>
+        <media:content url="https://Jannis.Treffler.cloud/media/posts/10/untitleasdd-2.png" medium="image" />
 
         <updated>2022-04-23T12:38:44+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://Jannis.Treffler.cloud/media/posts/10/untitleasdd-2.png" alt="" />
-                     
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Jannis.Treffler.cloud/media/posts/10/untitleasdd-2.png" alt="" />
+                    <p><img src="https://Jannis.Treffler.cloud/media/posts/10/untitleasdd-2.png" class="type:primaryImage" alt="" /></p>
                 <h2> </h2>
 <h2><figure class="post__image"><img loading="lazy"  src="https://Jannis.Treffler.cloud/media/posts/10/Cyber-City-2.svg" alt="" width="754" height="1623"></figure></h2>
 <h2> </h2>
@@ -103,6 +91,7 @@
         </author>
         <link href="https://Jannis.Treffler.cloud/kakao/"/>
         <id>https://Jannis.Treffler.cloud/kakao/</id>
+        <media:content url="https://Jannis.Treffler.cloud/media/posts/8/WhatsApp-Image-2022-02-26-at-11.28.45-2.jpeg" medium="image" />
 
         <updated>2022-04-21T08:58:13+02:00</updated>
             <summary></summary>
@@ -115,6 +104,7 @@
         </author>
         <link href="https://Jannis.Treffler.cloud/sushi/"/>
         <id>https://Jannis.Treffler.cloud/sushi/</id>
+        <media:content url="https://Jannis.Treffler.cloud/media/posts/7/suschi5-1086x712-2.jpg" medium="image" />
 
         <updated>2022-04-21T08:58:53+02:00</updated>
             <summary></summary>
@@ -127,6 +117,7 @@
         </author>
         <link href="https://Jannis.Treffler.cloud/ice-creame/"/>
         <id>https://Jannis.Treffler.cloud/ice-creame/</id>
+        <media:content url="https://Jannis.Treffler.cloud/media/posts/5/Eiscram4-910x1044.jpg" medium="image" />
 
         <updated>2022-04-21T08:59:15+02:00</updated>
             <summary></summary>
@@ -139,6 +130,7 @@
         </author>
         <link href="https://Jannis.Treffler.cloud/kino/"/>
         <id>https://Jannis.Treffler.cloud/kino/</id>
+        <media:content url="https://Jannis.Treffler.cloud/media/posts/4/Kino4-1075x1007.jpg" medium="image" />
 
         <updated>2022-04-21T09:23:17+02:00</updated>
             <summary></summary>
@@ -151,17 +143,13 @@
         </author>
         <link href="https://Jannis.Treffler.cloud/test/"/>
         <id>https://Jannis.Treffler.cloud/test/</id>
+        <media:content url="https://Jannis.Treffler.cloud/media/posts/1/5UVEycZ9nenHK3xT5jHjOuSMRpz7QB90AxQLtPeS.jpg" medium="image" />
 
         <updated>2022-06-01T14:27:22+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://Jannis.Treffler.cloud/media/posts/1/5UVEycZ9nenHK3xT5jHjOuSMRpz7QB90AxQLtPeS.jpg" alt="" />
-                     
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Jannis.Treffler.cloud/media/posts/1/5UVEycZ9nenHK3xT5jHjOuSMRpz7QB90AxQLtPeS.jpg" alt="" />
+                    <p><img src="https://Jannis.Treffler.cloud/media/posts/1/5UVEycZ9nenHK3xT5jHjOuSMRpz7QB90AxQLtPeS.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="msg msg--info"> </p>
 <p class="align-center">  </p>
             ]]>
