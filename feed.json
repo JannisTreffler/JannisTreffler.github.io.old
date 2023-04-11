@@ -12,7 +12,7 @@
         {
             "id": "https://Jannis.Treffler.cloud/nasa-project/",
             "url": "https://Jannis.Treffler.cloud/nasa-project/",
-            "title": "Nasa Project",
+            "title": "Earth from space",
             "summary": "More information coming soon",
             "content_html": "<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://Jannis.Treffler.cloud/media/posts/19/Nasa-Erth.png\" alt=\"\" width=\"4096\" height=\"2160\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://Jannis.Treffler.cloud/media/posts/19/responsive/Nasa-Erth-xs.png 300w ,https://Jannis.Treffler.cloud/media/posts/19/responsive/Nasa-Erth-sm.png 480w ,https://Jannis.Treffler.cloud/media/posts/19/responsive/Nasa-Erth-md.png 768w\"></figure>More information coming soon</p>",
             "image": "https://Jannis.Treffler.cloud/media/posts/19/untitled.png",
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2023-04-10T11:37:29+02:00",
-            "date_modified": "2023-04-10T11:37:29+02:00"
+            "date_modified": "2023-04-11T10:53:17+02:00"
         },
         {
             "id": "https://Jannis.Treffler.cloud/minimalist-keyboard/",
