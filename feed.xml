@@ -3,7 +3,7 @@
     <title>Jannis Treffler Design</title>
     <link href="https://Jannis.Treffler.cloud/feed.xml" rel="self" />
     <link href="https://Jannis.Treffler.cloud" />
-    <updated>2023-04-11T10:53:17+02:00</updated>
+    <updated>2023-04-11T10:58:27+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
@@ -39,19 +39,19 @@
         </author>
         <link href="https://Jannis.Treffler.cloud/minimalist-keyboard/"/>
         <id>https://Jannis.Treffler.cloud/minimalist-keyboard/</id>
-        <media:content url="https://Jannis.Treffler.cloud/media/posts/16/teaser-1.png" medium="image" />
+        <media:content url="https://Jannis.Treffler.cloud/media/posts/16/teaser-1-2.png" medium="image" />
 
-        <updated>2022-10-08T21:52:18+02:00</updated>
+        <updated>2023-04-11T10:58:27+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://Jannis.Treffler.cloud/media/posts/16/teaser-1.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://Jannis.Treffler.cloud/media/posts/16/teaser-1-2.png" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-3-2.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-3-2-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-2-2.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-2-2-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-5-2.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-5-2-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-6-2.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-6-2-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-4-3.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-4-3-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-3.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-3-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-2.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-2-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-6.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-6-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-4.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-4-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-5.png" data-size="3840x2160"><img loading="lazy" src="https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-5-thumbnail.png" alt="" width="768" height="432"></a></figure>
 </div></div>
 <p> </p>
             ]]>
