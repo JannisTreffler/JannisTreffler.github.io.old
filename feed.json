@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Jannis Treffler Design",
     "description": "",
-    "home_page_url": "https://Jannis.Treffler.cloud",
-    "feed_url": "https://Jannis.Treffler.cloud/feed.json",
+    "home_page_url": "https://jannis.treffler.cloud",
+    "feed_url": "https://jannis.treffler.cloud/feed.json",
     "user_comment": "",
-    "icon": "https://Jannis.Treffler.cloud/media/website/Group-2.png",
+    "icon": "https://jannis.treffler.cloud/media/website/Group-2.png",
     "author": {
         "name": "Jannis Treffler"
     },
     "items": [
         {
-            "id": "https://Jannis.Treffler.cloud/nasa-project/",
-            "url": "https://Jannis.Treffler.cloud/nasa-project/",
+            "id": "https://jannis.treffler.cloud/nasa-project/",
+            "url": "https://jannis.treffler.cloud/nasa-project/",
             "title": "Earth from space",
             "summary": "More information coming soon",
-            "content_html": "<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://Jannis.Treffler.cloud/media/posts/19/Nasa-Erth.png\" alt=\"\" width=\"4096\" height=\"2160\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://Jannis.Treffler.cloud/media/posts/19/responsive/Nasa-Erth-xs.png 300w ,https://Jannis.Treffler.cloud/media/posts/19/responsive/Nasa-Erth-sm.png 480w ,https://Jannis.Treffler.cloud/media/posts/19/responsive/Nasa-Erth-md.png 768w\"></figure>More information coming soon</p>",
-            "image": "https://Jannis.Treffler.cloud/media/posts/19/untitled.png",
+            "content_html": "<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/19/Nasa-Erth.png\" alt=\"\" width=\"4096\" height=\"2160\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/19/responsive/Nasa-Erth-xs.png 300w ,https://jannis.treffler.cloud/media/posts/19/responsive/Nasa-Erth-sm.png 480w ,https://jannis.treffler.cloud/media/posts/19/responsive/Nasa-Erth-md.png 768w\"></figure>More information coming soon</p>",
+            "image": "https://jannis.treffler.cloud/media/posts/19/untitled.png",
             "author": {
                 "name": "Jannis Treffler"
             },
@@ -26,8 +26,8 @@
             "date_modified": "2023-04-11T10:53:17+02:00"
         },
         {
-            "id": "https://Jannis.Treffler.cloud/nasa-earth-3d-model/",
-            "url": "https://Jannis.Treffler.cloud/nasa-earth-3d-model/",
+            "id": "https://jannis.treffler.cloud/nasa-earth-3d-model/",
+            "url": "https://jannis.treffler.cloud/nasa-earth-3d-model/",
             "title": "Nasa Earth 3D Model",
             "summary": "asiodugoiuhgasdasdfgasdasdljhbdf",
             "content_html": "<p> </p>\n<div class=\"nasa-earth\"><!-- hier drunter erstzen ... --><!-- Shape: Board --><!-- Shape: Board --><!-- Shape: Board --><!-- Shape: Board --> <svg xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" width=\"1377\" xmlns=\"http://www.w3.org/2000/svg\" style=\"-webkit-print-color-adjust: exact;\" id=\"screenshot-1729515b-0b39-806d-8002-5723e8647d99\" version=\"1.1\" viewbox=\"2491 2158 1377 2170.37\" data-loading=\"true\"> <g id=\"shape-1729515b-0b39-806d-8002-5723e8647d99\"> <g> <g class=\"fills\" id=\"fills-1729515b-0b39-806d-8002-5723e8647d99\"> <rect rx=\"0\" ry=\"0\" x=\"2491\" y=\"2158\" transform=\"matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)\" width=\"1377\" height=\"2170.370177267986\" class=\"frame-background\"> </rect> </g> <g class=\"frame-children\"> <g id=\"shape-1729515b-0b39-806d-8002-57292c0a7e4f\"> <g class=\"fills\" id=\"fills-1729515b-0b39-806d-8002-57292c0a7e4f\"> <rect rx=\"0\" ry=\"0\" style=\"fill: #000000; fill-opacity: 1;\" x=\"2491.0000000000005\" y=\"2158\" transform=\"matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)\" width=\"1377\" height=\"2170\"> </rect> </g> </g> <g id=\"shape-d395bafd-f308-8078-8002-54c9977ad2b7\"> <defs> <pattern patternunits=\"userSpaceOnUse\" x=\"2491.0000000000005\" y=\"3553\" height=\"775.370177267987\" width=\"1377\" data-loading=\"true\" id=\"fill-0-rumext-id-92\"> <g> <image href=\"https://design.penpot.app/assets/by-file-media-id/4c677aeb-b8cb-800f-8002-54c9976e948d\" preserveaspectratio=\"none\" width=\"1377\" height=\"775.370177267987\"> </image> </g> </pattern> </defs> <g class=\"fills\" id=\"fills-d395bafd-f308-8078-8002-54c9977ad2b7\"> <rect rx=\"0\" ry=\"0\" x=\"2491.0000000000005\" y=\"3553\" transform=\"matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)\" width=\"1377\" height=\"775.370177267987\" fill=\"url(#fill-0-rumext-id-92)\"> </rect> </g> </g> <g id=\"shape-1729515b-0b39-806d-8002-5727635105e5\"> <defs> <pattern patternunits=\"userSpaceOnUse\" x=\"2491.0000000000005\" y=\"2884.0000000000005\" height=\"668.9999999999995\" width=\"1376.9999999999995\" data-loading=\"false\" id=\"fill-0-rumext-id-93\"> <g> <rect style=\"fill: #ffffff; fill-opacity: 1;\" width=\"1376.9999999999995\" height=\"668.9999999999995\"> </rect> </g> </pattern> </defs> <g transform=\"matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)\" class=\"text-container\" x=\"2491.0000000000005\" y=\"2884.0000000000005\" width=\"1376.9999999999995\" height=\"668.9999999999995\" rx=\"0\" ry=\"0\" style=\"opacity: 1;\"> <g class=\"fills\" id=\"fills-1729515b-0b39-806d-8002-5727635105e5\"> <text x=\"2912.6718750000005\" y=\"2929.0000000000005\" dominant-baseline=\"ideographic\" textlength=\"533.65625\" lengthadjust=\"spacingAndGlyphs\" style=\"text-transform: none; font-family: sourcesanspro; letter-spacing: normal; font-style: normal; font-weight: 400; white-space: pre; font-size: 36px; text-decoration: none solid #ffffff; direction: ltr; fill: #ffffff; fill-opacity: 1;\">asiodugoiuhgasdasdfgasdasdljhbdf</text> </g> </g> </g> <g id=\"shape-3e0e1104-53ff-8048-8002-41759a6ad95a\"> <defs> <pattern patternunits=\"userSpaceOnUse\" x=\"2491\" y=\"2158.000000000001\" height=\"726\" width=\"1377\" data-loading=\"true\" id=\"fill-0-rumext-id-94\"> <g> <image href=\"https://design.penpot.app/assets/by-file-media-id/d5fc0283-ef1c-80fa-8002-41759a5fc98b\" preserveaspectratio=\"none\" width=\"1377\" height=\"726\"> </image> </g> </pattern> </defs> <g class=\"fills\" id=\"fills-3e0e1104-53ff-8048-8002-41759a6ad95a\"> <rect rx=\"0\" ry=\"0\" x=\"2491\" y=\"2158.000000000001\" transform=\"matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)\" width=\"1377\" height=\"726\" fill=\"url(#fill-0-rumext-id-94)\"> </rect> </g> </g> </g> </g> </g> </svg><!-- ... bis hier --></div>",
@@ -40,11 +40,11 @@
             "date_modified": "2023-04-11T11:18:06+02:00"
         },
         {
-            "id": "https://Jannis.Treffler.cloud/minimalist-keyboard/",
-            "url": "https://Jannis.Treffler.cloud/minimalist-keyboard/",
+            "id": "https://jannis.treffler.cloud/minimalist-keyboard/",
+            "url": "https://jannis.treffler.cloud/minimalist-keyboard/",
             "title": "Minimalist Keyboard",
-            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-3.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-3-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-2.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://Jannis.Treffler.cloud/media/posts/16/gallery/teaser-2-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-6.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-6-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-4.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-4-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-5.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://Jannis.Treffler.cloud/media/posts/16/gallery/Teaser-5-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n</div></div>\n<p> </p>",
-            "image": "https://Jannis.Treffler.cloud/media/posts/16/teaser-1-2.png",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/16/gallery/teaser-3.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/16/gallery/teaser-3-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/16/gallery/teaser-2.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/16/gallery/teaser-2-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/16/gallery/Teaser-6.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/16/gallery/Teaser-6-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/16/gallery/Teaser-4.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/16/gallery/Teaser-4-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/16/gallery/Teaser-5.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/16/gallery/Teaser-5-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n</div></div>\n<p> </p>",
+            "image": "https://jannis.treffler.cloud/media/posts/16/teaser-1-2.png",
             "author": {
                 "name": "Jannis Treffler"
             },
@@ -54,11 +54,11 @@
             "date_modified": "2023-04-11T10:58:27+02:00"
         },
         {
-            "id": "https://Jannis.Treffler.cloud/the-music-plates/",
-            "url": "https://Jannis.Treffler.cloud/the-music-plates/",
+            "id": "https://jannis.treffler.cloud/the-music-plates/",
+            "url": "https://jannis.treffler.cloud/the-music-plates/",
             "title": "The Music Plates",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-MIDDLE-OF-THE-NIGHT-render.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-MIDDLE-OF-THE-NIGHT-render-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-Heat-Waves-render.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-Heat-Waves-render-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-Titanic-render.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-Titanic-render-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-Blinding-Lights-render.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-Blinding-Lights-render-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n</div></div>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-Heat-Waves.png\" data-size=\"985x1253\"><img loading=\"lazy\" src=\"https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-Heat-Waves-thumbnail.png\" alt=\"\" width=\"768\" height=\"977\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-MIDDLE-OF-THE-NIGHT.png\" data-size=\"985x1253\"><img loading=\"lazy\" src=\"https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-MIDDLE-OF-THE-NIGHT-thumbnail.png\" alt=\"\" width=\"768\" height=\"977\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-Titanic.png\" data-size=\"985x1253\"><img loading=\"lazy\" src=\"https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-Titanic-thumbnail.png\" alt=\"\" width=\"768\" height=\"977\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-Blinding-Lights.png\" data-size=\"985x1253\"><img loading=\"lazy\" src=\"https://Jannis.Treffler.cloud/media/posts/14/gallery/Musik-Plate-Blinding-Lights-thumbnail.png\" alt=\"\" width=\"768\" height=\"977\"></a></figure>\n</div></div>",
-            "image": "https://Jannis.Treffler.cloud/media/posts/14/plates-p1-e-2.png",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-MIDDLE-OF-THE-NIGHT-render.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-MIDDLE-OF-THE-NIGHT-render-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Heat-Waves-render.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Heat-Waves-render-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Titanic-render.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Titanic-render-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Blinding-Lights-render.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Blinding-Lights-render-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n</div></div>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Heat-Waves.png\" data-size=\"985x1253\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Heat-Waves-thumbnail.png\" alt=\"\" width=\"768\" height=\"977\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-MIDDLE-OF-THE-NIGHT.png\" data-size=\"985x1253\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-MIDDLE-OF-THE-NIGHT-thumbnail.png\" alt=\"\" width=\"768\" height=\"977\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Titanic.png\" data-size=\"985x1253\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Titanic-thumbnail.png\" alt=\"\" width=\"768\" height=\"977\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Blinding-Lights.png\" data-size=\"985x1253\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Blinding-Lights-thumbnail.png\" alt=\"\" width=\"768\" height=\"977\"></a></figure>\n</div></div>",
+            "image": "https://jannis.treffler.cloud/media/posts/14/plates-p1-e-2.png",
             "author": {
                 "name": "Jannis Treffler"
             },
@@ -69,11 +69,11 @@
             "date_modified": "2022-06-14T14:51:25+02:00"
         },
         {
-            "id": "https://Jannis.Treffler.cloud/cyber-city/",
-            "url": "https://Jannis.Treffler.cloud/cyber-city/",
+            "id": "https://jannis.treffler.cloud/cyber-city/",
+            "url": "https://jannis.treffler.cloud/cyber-city/",
             "title": "Cyber City",
-            "content_html": "<h2> </h2>\n<h2><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://Jannis.Treffler.cloud/media/posts/10/Cyber-City-2.svg\" alt=\"\" width=\"754\" height=\"1623\"></figure></h2>\n<h2> </h2>",
-            "image": "https://Jannis.Treffler.cloud/media/posts/10/untitleasdd-2.png",
+            "content_html": "<h2> </h2>\n<h2><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/10/Cyber-City-2.svg\" alt=\"\" width=\"754\" height=\"1623\"></figure></h2>\n<h2> </h2>",
+            "image": "https://jannis.treffler.cloud/media/posts/10/untitleasdd-2.png",
             "author": {
                 "name": "Jannis Treffler"
             },
@@ -83,10 +83,10 @@
             "date_modified": "2022-04-23T12:38:44+02:00"
         },
         {
-            "id": "https://Jannis.Treffler.cloud/kakao/",
-            "url": "https://Jannis.Treffler.cloud/kakao/",
+            "id": "https://jannis.treffler.cloud/kakao/",
+            "url": "https://jannis.treffler.cloud/kakao/",
             "title": "KAKAO",
-            "image": "https://Jannis.Treffler.cloud/media/posts/8/WhatsApp-Image-2022-02-26-at-11.28.45-2.jpeg",
+            "image": "https://jannis.treffler.cloud/media/posts/8/WhatsApp-Image-2022-02-26-at-11.28.45-2.jpeg",
             "author": {
                 "name": "Jannis Treffler"
             },
@@ -96,10 +96,10 @@
             "date_modified": "2022-04-21T08:58:13+02:00"
         },
         {
-            "id": "https://Jannis.Treffler.cloud/sushi/",
-            "url": "https://Jannis.Treffler.cloud/sushi/",
+            "id": "https://jannis.treffler.cloud/sushi/",
+            "url": "https://jannis.treffler.cloud/sushi/",
             "title": "SUSHI",
-            "image": "https://Jannis.Treffler.cloud/media/posts/7/suschi5-1086x712-2.jpg",
+            "image": "https://jannis.treffler.cloud/media/posts/7/suschi5-1086x712-2.jpg",
             "author": {
                 "name": "Jannis Treffler"
             },
@@ -109,10 +109,10 @@
             "date_modified": "2022-04-21T08:58:53+02:00"
         },
         {
-            "id": "https://Jannis.Treffler.cloud/ice-creame/",
-            "url": "https://Jannis.Treffler.cloud/ice-creame/",
+            "id": "https://jannis.treffler.cloud/ice-creame/",
+            "url": "https://jannis.treffler.cloud/ice-creame/",
             "title": "ICE CREAM",
-            "image": "https://Jannis.Treffler.cloud/media/posts/5/Eiscram4-910x1044.jpg",
+            "image": "https://jannis.treffler.cloud/media/posts/5/Eiscram4-910x1044.jpg",
             "author": {
                 "name": "Jannis Treffler"
             },
@@ -122,10 +122,10 @@
             "date_modified": "2022-04-21T08:59:15+02:00"
         },
         {
-            "id": "https://Jannis.Treffler.cloud/kino/",
-            "url": "https://Jannis.Treffler.cloud/kino/",
+            "id": "https://jannis.treffler.cloud/kino/",
+            "url": "https://jannis.treffler.cloud/kino/",
             "title": "KINO",
-            "image": "https://Jannis.Treffler.cloud/media/posts/4/Kino4-1075x1007.jpg",
+            "image": "https://jannis.treffler.cloud/media/posts/4/Kino4-1075x1007.jpg",
             "author": {
                 "name": "Jannis Treffler"
             },
@@ -135,11 +135,11 @@
             "date_modified": "2022-04-21T09:23:17+02:00"
         },
         {
-            "id": "https://Jannis.Treffler.cloud/test/",
-            "url": "https://Jannis.Treffler.cloud/test/",
+            "id": "https://jannis.treffler.cloud/test/",
+            "url": "https://jannis.treffler.cloud/test/",
             "title": "2D RAMEN ANIMATION",
             "content_html": "<p class=\"msg msg--info\"> </p>\n<p class=\"align-center\">  </p>",
-            "image": "https://Jannis.Treffler.cloud/media/posts/1/5UVEycZ9nenHK3xT5jHjOuSMRpz7QB90AxQLtPeS.jpg",
+            "image": "https://jannis.treffler.cloud/media/posts/1/5UVEycZ9nenHK3xT5jHjOuSMRpz7QB90AxQLtPeS.jpg",
             "author": {
                 "name": "Jannis Treffler"
             },
