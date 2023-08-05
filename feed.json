@@ -15,26 +15,28 @@
             "url": "https://jannis.treffler.cloud/space-station-concept/",
             "title": "Space Station Concept",
             "content_html": "<figure class=\"post__image post__image--full\"><img  src=\"https://jannis.treffler.cloud/media/posts/21/Final-space-station-film-4.png\" alt=\"\" width=\"4096\" height=\"2160\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-4-xs.png 300w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-4-sm.png 480w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-4-md.png 768w\"></figure><figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/21/Final-space-station-film-2-5.png\" alt=\"\" width=\"4096\" height=\"2160\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-xs.png 300w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-sm.png 480w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-md.png 768w\"></figure><figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/21/Final-space-station-3-film-1.png\" alt=\"\" width=\"4096\" height=\"2160\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-xs.png 300w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-sm.png 480w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-md.png 768w\"></figure>",
+            "image": "https://jannis.treffler.cloud/media/posts/21/Final-space-station-film.png",
             "author": {
                 "name": "Jannis Treffler"
             },
             "tags": [
             ],
             "date_published": "2023-08-05T13:51:30+02:00",
-            "date_modified": "2023-08-05T13:51:30+02:00"
+            "date_modified": "2023-08-05T14:05:28+02:00"
         },
         {
             "id": "https://jannis.treffler.cloud/my-concept-of-a-modern-camera/",
             "url": "https://jannis.treffler.cloud/my-concept-of-a-modern-camera/",
             "title": "My concept of a modern Camera ✨",
             "content_html": "<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-3.png\" data-size=\"4096x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-3-thumbnail.png\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-2.png\" data-size=\"4096x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-2-thumbnail.png\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-1.png\" data-size=\"4096x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-1-thumbnail.png\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n</div></div>",
+            "image": "https://jannis.treffler.cloud/media/posts/20/Kamera-seane-1.png",
             "author": {
                 "name": "Jannis Treffler"
             },
             "tags": [
             ],
             "date_published": "2023-07-15T11:33:11+02:00",
-            "date_modified": "2023-08-05T13:52:42+02:00"
+            "date_modified": "2023-08-05T14:05:17+02:00"
         },
         {
             "id": "https://jannis.treffler.cloud/nasa-project/",
