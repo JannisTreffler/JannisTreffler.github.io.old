@@ -3,12 +3,32 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2023-05-26T21:22:38+02:00</updated>
+    <updated>2023-07-15T11:33:11+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
     <id>https://jannis.treffler.cloud</id>
 
+    <entry>
+        <title>My concept of a modern Camera ✨</title>
+        <author>
+            <name>Jannis Treffler</name>
+        </author>
+        <link href="https://jannis.treffler.cloud/my-concept-of-a-modern-camera/"/>
+        <id>https://jannis.treffler.cloud/my-concept-of-a-modern-camera/</id>
+
+        <updated>2023-07-15T11:33:11+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-3.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-3-thumbnail.png" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-2.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-2-thumbnail.png" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-1.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-1-thumbnail.png" alt="" width="768" height="405"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Earth from space</title>
         <author>
