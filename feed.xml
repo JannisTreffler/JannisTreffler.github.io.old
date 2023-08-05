@@ -3,7 +3,7 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2023-08-05T15:31:26+02:00</updated>
+    <updated>2023-08-05T15:32:43+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
@@ -18,12 +18,12 @@
         <id>https://jannis.treffler.cloud/space-station-concept/</id>
         <media:content url="https://jannis.treffler.cloud/media/posts/21/Final-space-station-film.png" medium="image" />
 
-        <updated>2023-08-05T15:19:29+02:00</updated>
+        <updated>2023-08-05T15:32:43+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://jannis.treffler.cloud/media/posts/21/Final-space-station-film.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img  src="https://jannis.treffler.cloud/media/posts/21/Final-space-station-film-4.png" alt="" width="4096" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-4-xs.png 300w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-4-sm.png 480w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-4-md.png 768w"></figure><figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/21/Final-space-station-film-2-5.png" alt="" width="4096" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-xs.png 300w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-sm.png 480w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-md.png 768w"></figure><figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/21/Final-space-station-3-film-1.png" alt="" width="4096" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-xs.png 300w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-sm.png 480w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-md.png 768w"></figure>
+                <figure class="post__image"><img  src="https://jannis.treffler.cloud/media/posts/21/Final-space-station-film-2-5.png" alt="" width="4096" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-xs.png 300w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-sm.png 480w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-md.png 768w"></figure><figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/21/Final-space-station-3-film-1.png" alt="" width="4096" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-xs.png 300w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-sm.png 480w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-md.png 768w"></figure>
             ]]>
         </content>
     </entry>
