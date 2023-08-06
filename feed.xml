@@ -3,14 +3,14 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2023-08-06T15:00:53+02:00</updated>
+    <updated>2023-08-06T17:20:20+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
     <id>https://jannis.treffler.cloud</id>
 
     <entry>
-        <title>Space Station Concept</title>
+        <title>Space Station Concept 🌎</title>
         <author>
             <name>Jannis Treffler</name>
         </author>
@@ -18,7 +18,7 @@
         <id>https://jannis.treffler.cloud/space-station-concept/</id>
         <media:content url="https://jannis.treffler.cloud/media/posts/21/Final-space-station-film.png" medium="image" />
 
-        <updated>2023-08-06T15:00:53+02:00</updated>
+        <updated>2023-08-06T17:18:29+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -36,7 +36,7 @@
         <id>https://jannis.treffler.cloud/my-concept-of-a-modern-camera/</id>
         <media:content url="https://jannis.treffler.cloud/media/posts/20/Kamera-seane-1.png" medium="image" />
 
-        <updated>2023-08-05T15:19:34+02:00</updated>
+        <updated>2023-08-06T17:18:32+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -58,7 +58,7 @@
         <id>https://jannis.treffler.cloud/nasa-project/</id>
         <media:content url="https://jannis.treffler.cloud/media/posts/19/untitled.png" medium="image" />
 
-        <updated>2023-08-05T15:31:26+02:00</updated>
+        <updated>2023-08-06T17:18:36+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jannis.treffler.cloud/media/posts/19/untitled.png" alt="" />
@@ -73,7 +73,7 @@
         </content>
     </entry>
     <entry>
-        <title>Minimalist Keyboard</title>
+        <title>Minimalist Keyboard </title>
         <author>
             <name>Jannis Treffler</name>
         </author>
@@ -81,12 +81,13 @@
         <id>https://jannis.treffler.cloud/minimalist-keyboard/</id>
         <media:content url="https://jannis.treffler.cloud/media/posts/16/teaser-1-2.png" medium="image" />
 
-        <updated>2023-04-11T10:58:27+02:00</updated>
+        <updated>2023-08-06T17:19:41+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://jannis.treffler.cloud/media/posts/16/teaser-1-2.png" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="3">
+                <p> </p>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/16/gallery/teaser-3.png" data-size="3840x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/16/gallery/teaser-3-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/16/gallery/teaser-2.png" data-size="3840x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/16/gallery/teaser-2-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/16/gallery/Teaser-6.png" data-size="3840x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/16/gallery/Teaser-6-thumbnail.png" alt="" width="768" height="432"></a></figure>
@@ -98,7 +99,7 @@
         </content>
     </entry>
     <entry>
-        <title>The Music Plates</title>
+        <title>The Music Plates 🎶</title>
         <author>
             <name>Jannis Treffler</name>
         </author>
@@ -107,12 +108,13 @@
         <media:content url="https://jannis.treffler.cloud/media/posts/14/plates-p1-e-2.png" medium="image" />
             <category term="JANNIS"/>
 
-        <updated>2023-08-05T15:19:53+02:00</updated>
+        <updated>2023-08-06T17:20:20+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://jannis.treffler.cloud/media/posts/14/plates-p1-e-2.png" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+                <p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-MIDDLE-OF-THE-NIGHT-render.png" data-size="1920x1080"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-MIDDLE-OF-THE-NIGHT-render-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Heat-Waves-render.png" data-size="1920x1080"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Heat-Waves-render-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Titanic-render.png" data-size="1920x1080"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Titanic-render-thumbnail.png" alt="" width="768" height="432"></a></figure>
