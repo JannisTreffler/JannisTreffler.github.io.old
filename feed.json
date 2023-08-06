@@ -56,7 +56,7 @@
         {
             "id": "https://jannis.treffler.cloud/minimalist-keyboard/",
             "url": "https://jannis.treffler.cloud/minimalist-keyboard/",
-            "title": "Minimalist Keyboard ",
+            "title": "Minimalist Keyboard ⌨️",
             "content_html": "<p> </p>\n<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/16/gallery/teaser-3.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/16/gallery/teaser-3-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/16/gallery/teaser-2.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/16/gallery/teaser-2-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/16/gallery/Teaser-6.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/16/gallery/Teaser-6-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/16/gallery/Teaser-4.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/16/gallery/Teaser-4-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/16/gallery/Teaser-5.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/16/gallery/Teaser-5-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n</div></div>\n<p> </p>",
             "image": "https://jannis.treffler.cloud/media/posts/16/teaser-1-2.png",
             "author": {
@@ -65,7 +65,7 @@
             "tags": [
             ],
             "date_published": "2022-10-08T21:29:11+02:00",
-            "date_modified": "2023-08-06T17:19:41+02:00"
+            "date_modified": "2023-08-06T17:46:45+02:00"
         },
         {
             "id": "https://jannis.treffler.cloud/the-music-plates/",
@@ -80,7 +80,7 @@
                    "JANNIS"
             ],
             "date_published": "2022-06-01T13:13:54+02:00",
-            "date_modified": "2023-08-06T17:20:20+02:00"
+            "date_modified": "2023-08-06T17:47:19+02:00"
         },
         {
             "id": "https://jannis.treffler.cloud/cyber-city/",
