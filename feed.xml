@@ -3,7 +3,7 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2023-08-07T11:45:14+02:00</updated>
+    <updated>2023-08-07T13:13:07+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
@@ -18,12 +18,23 @@
         <id>https://jannis.treffler.cloud/space-station-concept/</id>
         <media:content url="https://jannis.treffler.cloud/media/posts/21/Final-space-station-film.png" medium="image" />
 
-        <updated>2023-08-06T17:18:29+02:00</updated>
+        <updated>2023-08-07T13:11:39+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://jannis.treffler.cloud/media/posts/21/Final-space-station-film.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img  src="https://jannis.treffler.cloud/media/posts/21/Final-space-station-film-2-5.png" alt="" width="4096" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-xs.png 300w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-sm.png 480w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-md.png 768w"></figure><figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/21/Final-space-station-3-film-1.png" alt="" width="4096" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-xs.png 300w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-sm.png 480w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-md.png 768w"></figure>
+<!-- Google tag (gtag.js) -->
+<p>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-H1756GESLH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H1756GESLH');
+</script>
+</p>
             ]]>
         </content>
     </entry>
@@ -36,7 +47,7 @@
         <id>https://jannis.treffler.cloud/my-concept-of-a-modern-camera/</id>
         <media:content url="https://jannis.treffler.cloud/media/posts/20/Kamera-seane-1.png" medium="image" />
 
-        <updated>2023-08-07T11:44:51+02:00</updated>
+        <updated>2023-08-07T13:11:46+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -47,6 +58,7 @@
 <figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-1.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-1-thumbnail.png" alt="" width="768" height="405"></a></figure>
 </div></div>
 <!-- Google tag (gtag.js) -->
+<p>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-H1756GESLH"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -55,6 +67,7 @@
 
   gtag('config', 'G-H1756GESLH');
 </script>
+</p>
             ]]>
         </content>
     </entry>
@@ -185,9 +198,24 @@
         <id>https://jannis.treffler.cloud/kakao/</id>
         <media:content url="https://jannis.treffler.cloud/media/posts/8/WhatsApp-Image-2022-02-26-at-11.28.45-2.jpeg" medium="image" />
 
-        <updated>2022-04-21T08:58:13+02:00</updated>
+        <updated>2023-08-07T13:12:45+02:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jannis.treffler.cloud/media/posts/8/WhatsApp-Image-2022-02-26-at-11.28.45-2.jpeg" class="type:primaryImage" alt="KAKAO" /></p>
+                <!-- Google tag (gtag.js) -->
+<p>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-H1756GESLH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H1756GESLH');
+</script>
+</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>SUSHI</title>
@@ -198,9 +226,24 @@
         <id>https://jannis.treffler.cloud/sushi/</id>
         <media:content url="https://jannis.treffler.cloud/media/posts/7/suschi5-1086x712-2.jpg" medium="image" />
 
-        <updated>2022-04-21T08:58:53+02:00</updated>
+        <updated>2023-08-07T13:13:01+02:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jannis.treffler.cloud/media/posts/7/suschi5-1086x712-2.jpg" class="type:primaryImage" alt="" /></p>
+                <!-- Google tag (gtag.js) -->
+<p>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-H1756GESLH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H1756GESLH');
+</script>
+</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>ICE CREAM</title>
@@ -211,9 +254,24 @@
         <id>https://jannis.treffler.cloud/ice-creame/</id>
         <media:content url="https://jannis.treffler.cloud/media/posts/5/Eiscram4-910x1044.jpg" medium="image" />
 
-        <updated>2022-04-21T08:59:15+02:00</updated>
+        <updated>2023-08-07T13:12:57+02:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jannis.treffler.cloud/media/posts/5/Eiscram4-910x1044.jpg" class="type:primaryImage" alt="" /></p>
+                <!-- Google tag (gtag.js) -->
+<p>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-H1756GESLH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H1756GESLH');
+</script>
+</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>KINO</title>
@@ -224,8 +282,23 @@
         <id>https://jannis.treffler.cloud/kino/</id>
         <media:content url="https://jannis.treffler.cloud/media/posts/4/Kino4-1075x1007.jpg" medium="image" />
 
-        <updated>2022-04-21T09:23:17+02:00</updated>
+        <updated>2023-08-07T13:13:07+02:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jannis.treffler.cloud/media/posts/4/Kino4-1075x1007.jpg" class="type:primaryImage" alt="" /></p>
+                <!-- Google tag (gtag.js) -->
+<p>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-H1756GESLH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H1756GESLH');
+</script>
+</p>
+            ]]>
+        </content>
     </entry>
 </feed>
