@@ -3,7 +3,7 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2023-08-06T17:47:19+02:00</updated>
+    <updated>2023-08-07T11:45:14+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
@@ -36,7 +36,7 @@
         <id>https://jannis.treffler.cloud/my-concept-of-a-modern-camera/</id>
         <media:content url="https://jannis.treffler.cloud/media/posts/20/Kamera-seane-1.png" medium="image" />
 
-        <updated>2023-08-06T17:18:32+02:00</updated>
+        <updated>2023-08-07T11:44:51+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -46,6 +46,15 @@
 <figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-2.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-2-thumbnail.png" alt="" width="768" height="405"></a></figure>
 <figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-1.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-1-thumbnail.png" alt="" width="768" height="405"></a></figure>
 </div></div>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-H1756GESLH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H1756GESLH');
+</script>
             ]]>
         </content>
     </entry>
@@ -58,7 +67,7 @@
         <id>https://jannis.treffler.cloud/nasa-project/</id>
         <media:content url="https://jannis.treffler.cloud/media/posts/19/untitled.png" medium="image" />
 
-        <updated>2023-08-06T17:18:36+02:00</updated>
+        <updated>2023-08-07T11:45:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jannis.treffler.cloud/media/posts/19/untitled.png" alt="" />
@@ -69,6 +78,15 @@
             <![CDATA[
                     <p><img src="https://jannis.treffler.cloud/media/posts/19/untitled.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image post__image--wide"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/19/Nasa-Erth.png" alt="" width="4096" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/19/responsive/Nasa-Erth-xs.png 300w ,https://jannis.treffler.cloud/media/posts/19/responsive/Nasa-Erth-sm.png 480w ,https://jannis.treffler.cloud/media/posts/19/responsive/Nasa-Erth-md.png 768w"></figure>More information coming soon</p>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-H1756GESLH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H1756GESLH');
+</script>
             ]]>
         </content>
     </entry>
@@ -108,7 +126,7 @@
         <media:content url="https://jannis.treffler.cloud/media/posts/14/plates-p1-e-2.png" medium="image" />
             <category term="JANNIS"/>
 
-        <updated>2023-08-06T17:47:19+02:00</updated>
+        <updated>2023-08-07T11:45:14+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -126,6 +144,15 @@
 <figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Titanic.png" data-size="985x1253"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Titanic-thumbnail.png" alt="" width="768" height="977"></a></figure>
 <figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Blinding-Lights.png" data-size="985x1253"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Blinding-Lights-thumbnail.png" alt="" width="768" height="977"></a></figure>
 </div></div>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-H1756GESLH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H1756GESLH');
+</script>
             ]]>
         </content>
     </entry>
