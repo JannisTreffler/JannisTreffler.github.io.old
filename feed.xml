@@ -3,7 +3,7 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2023-08-11T14:49:22+02:00</updated>
+    <updated>2023-08-11T15:02:23+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
@@ -18,12 +18,12 @@
         <id>https://jannis.treffler.cloud/game-boy/</id>
         <media:content url="https://jannis.treffler.cloud/media/posts/22/1-1.png" medium="image" />
 
-        <updated>2023-08-11T14:49:22+02:00</updated>
+        <updated>2023-08-11T15:02:23+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://jannis.treffler.cloud/media/posts/22/1-1.png" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/22/gallery/5-1.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/22/gallery/5-1-thumbnail.png" alt="" width="768" height="405"></a></figure>
 <figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/22/gallery/4-1.png" data-size="2821x4096"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/22/gallery/4-1-thumbnail.png" alt="" width="768" height="1115"></a></figure>
 <figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/22/gallery/2-1.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/22/gallery/2-1-thumbnail.png" alt="" width="768" height="405"></a></figure>
