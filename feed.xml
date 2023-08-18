@@ -3,12 +3,36 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2023-08-11T15:02:23+02:00</updated>
+    <updated>2023-08-18T21:16:25+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
     <id>https://jannis.treffler.cloud</id>
 
+    <entry>
+        <title>Wach Conzept ✨</title>
+        <author>
+            <name>Jannis Treffler</name>
+        </author>
+        <link href="https://jannis.treffler.cloud/wach-conzept/"/>
+        <id>https://jannis.treffler.cloud/wach-conzept/</id>
+        <media:content url="https://jannis.treffler.cloud/media/posts/23/C6.png" medium="image" />
+
+        <updated>2023-08-18T21:16:25+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jannis.treffler.cloud/media/posts/23/C6.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/23/c1.png" alt="" width="4096" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/23/responsive/c1-xs.png 300w ,https://jannis.treffler.cloud/media/posts/23/responsive/c1-sm.png 480w ,https://jannis.treffler.cloud/media/posts/23/responsive/c1-md.png 768w"></figure>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/23/gallery/c2.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/23/gallery/c2-thumbnail.png" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/23/gallery/C3.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/23/gallery/C3-thumbnail.png" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/23/gallery/C4.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/23/gallery/C4-thumbnail.png" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/23/gallery/C5.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/23/gallery/C5-thumbnail.png" alt="" width="768" height="405"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Game Boy</title>
         <author>
@@ -253,34 +277,6 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://jannis.treffler.cloud/media/posts/7/suschi5-1086x712-2.jpg" class="type:primaryImage" alt="" /></p>
-                <!-- Google tag (gtag.js) -->
-<p>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-H1756GESLH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-H1756GESLH');
-</script>
-</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>ICE CREAM</title>
-        <author>
-            <name>Jannis Treffler</name>
-        </author>
-        <link href="https://jannis.treffler.cloud/ice-creame/"/>
-        <id>https://jannis.treffler.cloud/ice-creame/</id>
-        <media:content url="https://jannis.treffler.cloud/media/posts/5/Eiscram4-910x1044.jpg" medium="image" />
-
-        <updated>2023-08-07T13:12:57+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://jannis.treffler.cloud/media/posts/5/Eiscram4-910x1044.jpg" class="type:primaryImage" alt="" /></p>
                 <!-- Google tag (gtag.js) -->
 <p>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-H1756GESLH"></script>
