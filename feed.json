@@ -13,7 +13,7 @@
         {
             "id": "https://jannis.treffler.cloud/wach-conzept/",
             "url": "https://jannis.treffler.cloud/wach-conzept/",
-            "title": "Wach Conzept ✨",
+            "title": "Watch Concept ✨",
             "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/23/c1.png\" alt=\"\" width=\"4096\" height=\"2160\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/23/responsive/c1-xs.png 300w ,https://jannis.treffler.cloud/media/posts/23/responsive/c1-sm.png 480w ,https://jannis.treffler.cloud/media/posts/23/responsive/c1-md.png 768w\"></figure>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/23/gallery/c2.png\" data-size=\"4096x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/23/gallery/c2-thumbnail.png\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/23/gallery/C3.png\" data-size=\"4096x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/23/gallery/C3-thumbnail.png\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/23/gallery/C4.png\" data-size=\"4096x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/23/gallery/C4-thumbnail.png\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/23/gallery/C5.png\" data-size=\"4096x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/23/gallery/C5-thumbnail.png\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n</div></div>",
             "image": "https://jannis.treffler.cloud/media/posts/23/C6.png",
             "author": {
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2023-08-18T21:15:57+02:00",
-            "date_modified": "2023-08-18T21:16:25+02:00"
+            "date_modified": "2023-08-18T21:29:12+02:00"
         },
         {
             "id": "https://jannis.treffler.cloud/game-boy/",
