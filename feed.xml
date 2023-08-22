@@ -3,12 +3,36 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2023-08-18T21:29:12+02:00</updated>
+    <updated>2023-08-22T17:57:06+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
     <id>https://jannis.treffler.cloud</id>
 
+    <entry>
+        <title>Wallet Concept✨</title>
+        <author>
+            <name>Jannis Treffler</name>
+        </author>
+        <link href="https://jannis.treffler.cloud/wallet-concept/"/>
+        <id>https://jannis.treffler.cloud/wallet-concept/</id>
+        <media:content url="https://jannis.treffler.cloud/media/posts/24/C1.png" medium="image" />
+
+        <updated>2023-08-22T17:57:06+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jannis.treffler.cloud/media/posts/24/C1.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image post__image--wide"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/24/0001-0150.mp4" alt=""></figure>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/24/gallery/C4-2.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/24/gallery/C4-2-thumbnail.png" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/24/gallery/C3.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/24/gallery/C3-thumbnail.png" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/24/gallery/C2.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/24/gallery/C2-thumbnail.png" alt="" width="768" height="405"></a></figure>
+</div></div>
+<figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/24/ezgif.com-gif-maker.gif" alt="" width="800" height="422"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Watch Concept ✨</title>
         <author>
@@ -249,34 +273,6 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://jannis.treffler.cloud/media/posts/8/WhatsApp-Image-2022-02-26-at-11.28.45-2.jpeg" class="type:primaryImage" alt="KAKAO" /></p>
-                <!-- Google tag (gtag.js) -->
-<p>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-H1756GESLH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-H1756GESLH');
-</script>
-</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>SUSHI</title>
-        <author>
-            <name>Jannis Treffler</name>
-        </author>
-        <link href="https://jannis.treffler.cloud/sushi/"/>
-        <id>https://jannis.treffler.cloud/sushi/</id>
-        <media:content url="https://jannis.treffler.cloud/media/posts/7/suschi5-1086x712-2.jpg" medium="image" />
-
-        <updated>2023-08-07T13:13:01+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://jannis.treffler.cloud/media/posts/7/suschi5-1086x712-2.jpg" class="type:primaryImage" alt="" /></p>
                 <!-- Google tag (gtag.js) -->
 <p>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-H1756GESLH"></script>

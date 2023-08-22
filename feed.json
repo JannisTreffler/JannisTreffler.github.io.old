@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://jannis.treffler.cloud/wallet-concept/",
+            "url": "https://jannis.treffler.cloud/wallet-concept/",
+            "title": "Wallet Concept✨",
+            "content_html": "<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/24/0001-0150.mp4\" alt=\"\"></figure>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/24/gallery/C4-2.png\" data-size=\"4096x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/24/gallery/C4-2-thumbnail.png\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/24/gallery/C3.png\" data-size=\"4096x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/24/gallery/C3-thumbnail.png\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/24/gallery/C2.png\" data-size=\"4096x2160\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/24/gallery/C2-thumbnail.png\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n</div></div>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/24/ezgif.com-gif-maker.gif\" alt=\"\" width=\"800\" height=\"422\"></figure>",
+            "image": "https://jannis.treffler.cloud/media/posts/24/C1.png",
+            "author": {
+                "name": "Jannis Treffler"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-22T17:57:06+02:00",
+            "date_modified": "2023-08-22T17:57:06+02:00"
+        },
+        {
             "id": "https://jannis.treffler.cloud/wach-conzept/",
             "url": "https://jannis.treffler.cloud/wach-conzept/",
             "title": "Watch Concept ✨",
@@ -137,20 +151,6 @@
             ],
             "date_published": "2022-02-26T11:33:10+01:00",
             "date_modified": "2023-08-07T13:12:45+02:00"
-        },
-        {
-            "id": "https://jannis.treffler.cloud/sushi/",
-            "url": "https://jannis.treffler.cloud/sushi/",
-            "title": "SUSHI",
-            "content_html": "<!-- Google tag (gtag.js) -->\n<p>\n<script async=\"\" src=\"https://www.googletagmanager.com/gtag/js?id=G-H1756GESLH\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-H1756GESLH');\n</script>\n</p>",
-            "image": "https://jannis.treffler.cloud/media/posts/7/suschi5-1086x712-2.jpg",
-            "author": {
-                "name": "Jannis Treffler"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-01-05T11:23:56+01:00",
-            "date_modified": "2023-08-07T13:13:01+02:00"
         }
     ]
 }
