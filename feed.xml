@@ -3,12 +3,30 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2023-09-04T13:29:01+02:00</updated>
+    <updated>2023-09-10T14:07:29+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
     <id>https://jannis.treffler.cloud</id>
 
+    <entry>
+        <title>   Planet exercise</title>
+        <author>
+            <name>Jannis Treffler</name>
+        </author>
+        <link href="https://jannis.treffler.cloud/planet-exercise/"/>
+        <id>https://jannis.treffler.cloud/planet-exercise/</id>
+        <media:content url="https://jannis.treffler.cloud/media/posts/26/C1-3.png" medium="image" />
+
+        <updated>2023-09-10T14:07:29+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jannis.treffler.cloud/media/posts/26/C1-3.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image post__image--wide"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/26/C2-3.png" alt="" width="1920" height="1080" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/26/responsive/C2-3-xs.png 300w ,https://jannis.treffler.cloud/media/posts/26/responsive/C2-3-sm.png 480w ,https://jannis.treffler.cloud/media/posts/26/responsive/C2-3-md.png 768w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>T-Shirts &amp; Hoodies</title>
         <author>
@@ -271,26 +289,6 @@
 
   gtag('config', 'G-H1756GESLH');
 </script>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cyber City</title>
-        <author>
-            <name>Jannis Treffler</name>
-        </author>
-        <link href="https://jannis.treffler.cloud/cyber-city/"/>
-        <id>https://jannis.treffler.cloud/cyber-city/</id>
-        <media:content url="https://jannis.treffler.cloud/media/posts/10/untitleasdd-2.png" medium="image" />
-
-        <updated>2022-04-23T12:38:44+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://jannis.treffler.cloud/media/posts/10/untitleasdd-2.png" class="type:primaryImage" alt="" /></p>
-                <h2> </h2>
-<h2><figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/10/Cyber-City-2.svg" alt="" width="754" height="1623"></figure></h2>
-<h2> </h2>
             ]]>
         </content>
     </entry>

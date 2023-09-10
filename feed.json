@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://jannis.treffler.cloud/planet-exercise/",
+            "url": "https://jannis.treffler.cloud/planet-exercise/",
+            "title": "   Planet exercise",
+            "content_html": "<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/26/C2-3.png\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/26/responsive/C2-3-xs.png 300w ,https://jannis.treffler.cloud/media/posts/26/responsive/C2-3-sm.png 480w ,https://jannis.treffler.cloud/media/posts/26/responsive/C2-3-md.png 768w\"></figure>",
+            "image": "https://jannis.treffler.cloud/media/posts/26/C1-3.png",
+            "author": {
+                "name": "Jannis Treffler"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-10T14:07:29+02:00",
+            "date_modified": "2023-09-10T14:07:29+02:00"
+        },
+        {
             "id": "https://jannis.treffler.cloud/t-shirts-and-hoodies/",
             "url": "https://jannis.treffler.cloud/t-shirts-and-hoodies/",
             "title": "T-Shirts &amp; Hoodies",
@@ -138,20 +152,6 @@
             ],
             "date_published": "2022-06-01T13:13:54+02:00",
             "date_modified": "2023-08-07T11:45:14+02:00"
-        },
-        {
-            "id": "https://jannis.treffler.cloud/cyber-city/",
-            "url": "https://jannis.treffler.cloud/cyber-city/",
-            "title": "Cyber City",
-            "content_html": "<h2> </h2>\n<h2><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/10/Cyber-City-2.svg\" alt=\"\" width=\"754\" height=\"1623\"></figure></h2>\n<h2> </h2>",
-            "image": "https://jannis.treffler.cloud/media/posts/10/untitleasdd-2.png",
-            "author": {
-                "name": "Jannis Treffler"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-04-03T18:41:49+02:00",
-            "date_modified": "2022-04-23T12:38:44+02:00"
         }
     ]
 }
