@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://jannis.treffler.cloud/nebula-1010/",
+            "url": "https://jannis.treffler.cloud/nebula-1010/",
+            "title": "Nebula 10/10",
+            "content_html": "<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/27/C5.png\" alt=\"\" width=\"3840\" height=\"2160\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/27/responsive/C5-xs.png 300w ,https://jannis.treffler.cloud/media/posts/27/responsive/C5-sm.png 480w ,https://jannis.treffler.cloud/media/posts/27/responsive/C5-md.png 768w\"></figure>",
+            "image": "https://jannis.treffler.cloud/media/posts/27/C4-2.0.png",
+            "author": {
+                "name": "Jannis Treffler"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-23T16:59:58+02:00",
+            "date_modified": "2023-09-23T16:59:58+02:00"
+        },
+        {
             "id": "https://jannis.treffler.cloud/planet-exercise/",
             "url": "https://jannis.treffler.cloud/planet-exercise/",
             "title": "   Planet exercise",
@@ -22,7 +36,7 @@
             "tags": [
             ],
             "date_published": "2023-09-10T14:07:29+02:00",
-            "date_modified": "2023-09-10T14:07:29+02:00"
+            "date_modified": "2023-09-10T14:08:23+02:00"
         },
         {
             "id": "https://jannis.treffler.cloud/t-shirts-and-hoodies/",
@@ -137,21 +151,6 @@
             ],
             "date_published": "2022-10-08T21:29:11+02:00",
             "date_modified": "2023-08-06T17:46:45+02:00"
-        },
-        {
-            "id": "https://jannis.treffler.cloud/the-music-plates/",
-            "url": "https://jannis.treffler.cloud/the-music-plates/",
-            "title": "The Music Plates 🎶",
-            "content_html": "<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-MIDDLE-OF-THE-NIGHT-render.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-MIDDLE-OF-THE-NIGHT-render-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Heat-Waves-render.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Heat-Waves-render-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Titanic-render.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Titanic-render-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Blinding-Lights-render.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Blinding-Lights-render-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n</div></div>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Heat-Waves.png\" data-size=\"985x1253\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Heat-Waves-thumbnail.png\" alt=\"\" width=\"768\" height=\"977\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-MIDDLE-OF-THE-NIGHT.png\" data-size=\"985x1253\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-MIDDLE-OF-THE-NIGHT-thumbnail.png\" alt=\"\" width=\"768\" height=\"977\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Titanic.png\" data-size=\"985x1253\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Titanic-thumbnail.png\" alt=\"\" width=\"768\" height=\"977\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Blinding-Lights.png\" data-size=\"985x1253\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/14/gallery/Musik-Plate-Blinding-Lights-thumbnail.png\" alt=\"\" width=\"768\" height=\"977\"></a></figure>\n</div></div>\n<!-- Google tag (gtag.js) -->\n<script async=\"\" src=\"https://www.googletagmanager.com/gtag/js?id=G-H1756GESLH\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-H1756GESLH');\n</script>",
-            "image": "https://jannis.treffler.cloud/media/posts/14/plates-p1-e-2.png",
-            "author": {
-                "name": "Jannis Treffler"
-            },
-            "tags": [
-                   "JANNIS"
-            ],
-            "date_published": "2022-06-01T13:13:54+02:00",
-            "date_modified": "2023-08-07T11:45:14+02:00"
         }
     ]
 }
